@@ -5,6 +5,5 @@ The following dataset is used: [Human Activity Recognition Using Smartphones](ht
 
 #### Files
 The following files are uploaded as part of assignment submission:
-* CodeBook.md
 * run_analysis.R 
 * tidyset.txt
