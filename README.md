@@ -1,7 +1,9 @@
 # Assignment_CleaningData
-Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-a. Start by reading text files in the folder into respective variables. The following variables are created: 
+run_analysis.R - contains the code for the assignment
+tidyset.txt - contains the output of summarized data set with write.table() command
+
+Start by reading text files in the folder into respective variables. The following variables are created: 
 features 
 activities
 
