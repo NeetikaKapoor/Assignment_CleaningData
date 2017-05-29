@@ -42,3 +42,6 @@ For additional updates, we try to remove dog characters and convert some shot na
 
 #5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 use group_by and summarize to create a shortened dataset.
+
+
+I was unable to transfer X_train.txt and X_test.txt to github as the files were larger than 25MB.
