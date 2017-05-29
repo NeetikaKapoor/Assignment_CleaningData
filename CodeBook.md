@@ -45,3 +45,6 @@ Part of this was achieved when we provide column names to the dataset. For addit
 #### creating subsets
 * subset1
 * tidyset
+
+## R libraries used
+* dplyr
